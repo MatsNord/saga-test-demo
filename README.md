@@ -1,7 +1,7 @@
 # saga-test-demo
 
 ## install
-`npm io`
+`npm install`
 
 ## test
 `npm test`
